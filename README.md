@@ -10,7 +10,7 @@
 ![gallow](./images/1.png)
 
 ## Beurten
-* 
+* Ik raad 'E'
 * 
 * 
 * 
