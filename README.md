@@ -13,5 +13,5 @@
 * Ik raad 'E'
 * ik raad 'a'
 * ik raad 'n'
-* 
+* ik raad 'i'
 * 
